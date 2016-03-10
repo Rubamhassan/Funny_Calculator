@@ -36,12 +36,6 @@ def mod(num1, num2):
 
 
 
-pet = "CAT"
-
-
-print "Hello"
-
-
 """ 
 
 Arithmetic File
