@@ -32,3 +32,5 @@ def power(num1, num2):
 def mod(num1, num2):
     print "in mod function"
     return num1 % num2
+
+""" Arithmetic File """
