@@ -1,6 +1,6 @@
 def add(num1, num2):
     print "in add function"
-	return num1+num2
+    return num1+num2
 
 def subtract(num1, num2):
     print "in subtract function"
@@ -12,10 +12,10 @@ def multiply(num1, num2):
 
 def divide(num1, num2):
     print "in divide function"
-	if num2 != 0:
-		return num1 - num2
-	else:
-		return "Error"
+    if num2 != 0:
+    	return num1 - num2
+    else:
+    	return "Error"
 
 def square(num1):
     print "in square function"
@@ -33,4 +33,19 @@ def mod(num1, num2):
     print "in mod function"
     return num1 % num2
 
-""" Arithmetic File """
+
+
+
+pet = "CAT"
+
+
+print "Hello"
+
+
+""" 
+
+Arithmetic File
+
+This is done by 'Rosie'
+
+"""
