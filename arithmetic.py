@@ -34,12 +34,5 @@ def mod(num1, num2):
     return num1 % num2
 
 
+print "hi"
 
-
-""" 
-
-Arithmetic File
-
-This is done by 'Rosie'
-
-"""
